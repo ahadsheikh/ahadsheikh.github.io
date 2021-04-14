@@ -34,17 +34,17 @@
   },
   "interests": [
     {
-      "name": "Bioinformatics",
+      "name": "Backend Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "data mining",
+      "name": "Cyber Security",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -57,9 +57,10 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
+        "Node JS",
         "Python",
-        "Django"
+        "Django",
+        "Express JS"
       ]
     },
     {
